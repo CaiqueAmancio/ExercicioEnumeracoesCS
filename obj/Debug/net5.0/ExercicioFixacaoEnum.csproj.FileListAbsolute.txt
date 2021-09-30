@@ -1,0 +1,16 @@
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\bin\Debug\net5.0\ExercicioFixacaoEnum.exe
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\bin\Debug\net5.0\ExercicioFixacaoEnum.deps.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\bin\Debug\net5.0\ExercicioFixacaoEnum.runtimeconfig.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\bin\Debug\net5.0\ExercicioFixacaoEnum.runtimeconfig.dev.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\bin\Debug\net5.0\ExercicioFixacaoEnum.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\bin\Debug\net5.0\ref\ExercicioFixacaoEnum.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\bin\Debug\net5.0\ExercicioFixacaoEnum.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\obj\Debug\net5.0\ExercicioFixacaoEnum.csproj.AssemblyReference.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\obj\Debug\net5.0\ExercicioFixacaoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\obj\Debug\net5.0\ExercicioFixacaoEnum.AssemblyInfoInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\obj\Debug\net5.0\ExercicioFixacaoEnum.AssemblyInfo.cs
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\obj\Debug\net5.0\ExercicioFixacaoEnum.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\obj\Debug\net5.0\ExercicioFixacaoEnum.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\obj\Debug\net5.0\ref\ExercicioFixacaoEnum.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\obj\Debug\net5.0\ExercicioFixacaoEnum.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioFixacaoEnum\ExercicioFixacaoEnum\obj\Debug\net5.0\ExercicioFixacaoEnum.genruntimeconfig.cache
